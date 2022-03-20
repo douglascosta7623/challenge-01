@@ -127,3 +127,25 @@ header {
   color: var(--gray-title);
   margin-top: 8px;
 }
+
+footer {
+  display: flex;
+  margin-top: 50px;
+  /* height: 80px; */
+  background: var(--linear);
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--linear);
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.footer-contact {
+  margin-top: 10px;
+}
