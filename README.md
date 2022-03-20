@@ -4,6 +4,10 @@
 
 Repositório criado para armazenar o desafio 01 proposto por Iuri Silva criador da comunidade Codelândia no Discord.
 
+## 💻 My Resolution
+
+![Screenshot](my-resolution.png)
+
 ## 💻 Projeto desenvolvido
 
 [Acesse o projeto](https://challenge01-dcdev.netlify.app/)
